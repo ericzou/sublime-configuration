@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+shift+="], "command": "reindent" },
+	{ "keys": ["ctrl+shift+r"], "command" : "reveal_in_side_bar" },
+	{ "keys": ["ctrl+shift+s"], "command" : "toggle_side_bar" },
+  { "keys": ["ctrl+shift+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"} }
+]
+
